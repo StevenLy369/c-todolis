@@ -21,4 +21,5 @@ C:\Users\Steven\Desktop\epi\c#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.
 C:\Users\Steven\Desktop\epi\c#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.dll
 C:\Users\Steven\Desktop\epi\c#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.pdb
 C:\Users\Steven\Desktop\epi\c#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.csproj.CopyComplete
-C:\Users\Steven\Desktop\epi\c#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateForm.g.cshtml.cs
+C:\Users\Steven\Desktop\epi\c#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.2\Razor\Views\Items\CreateForm.g.cshtml.cs
+C:\Users\Steven\Desktop\epi\c#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.2\Razor\Views\Items\Index.g.cshtml.cs
